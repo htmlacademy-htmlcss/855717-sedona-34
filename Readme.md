@@ -1,10 +1,9 @@
 # Личный проект «Седона»
 
 * Студент: [Елена Чусовикина](https://up.htmlacademy.ru/htmlcss/34/user/855717).
-* Наставник: `Arthur Litovko`.
+* Наставник: `Артур Литовко`.
 
 ---
-
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
